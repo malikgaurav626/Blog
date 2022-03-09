@@ -1,0 +1,4 @@
+[submodule "gauravblog/public"]
+	path = gauravblog/public
+	url = https://github.com/malikgaurav626/malikgaurav626.github.io.git
+	branch = main
