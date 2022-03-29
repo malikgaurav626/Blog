@@ -31,7 +31,6 @@ DefaultContentLanguage = "en"
 [params]
 mainSections = ["posts"]
 headTitle = "Gaurav Malik's Blog"
-
 [[params.socials]]
 name = "About Me"
 link = "https://malikgaurav626.github.io/malikgaurav626.github.io-AboutMe2/"
